@@ -1,0 +1,7 @@
+*~
+.*~
+__pycache__
+zynlibs/*/build
+.idea
+config.bat
+node_modules
